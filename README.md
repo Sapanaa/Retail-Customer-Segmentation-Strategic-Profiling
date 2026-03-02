@@ -4,7 +4,6 @@ An end-to-end customer segmentation project combining multiple clustering techni
 
 This project identifies actionable retail customer segments using both traditional and advanced machine learning methods and translates them into targeted marketing strategies.
 
----
 
 ##  Project Overview
 
@@ -20,7 +19,6 @@ This project applies:
 
 The objective is to build robust, interpretable customer segments and align them with clear business strategies.
 
----
 
 ##  Methodology
 
@@ -44,7 +42,6 @@ The objective is to build robust, interpretable customer segments and align them
 - Segment naming and persona creation
 - Strategic marketing recommendations
 
----
 
 ### Final Customer Segments
 
@@ -58,7 +55,6 @@ The objective is to build robust, interpretable customer segments and align them
 | 5 | Fashion-Oriented Mid Spenders | Trend campaigns |
 | 6 | Luxury Omnichannel VIPs | Premium retention |
 
----
 
 ##  Business Impact
 
@@ -72,7 +68,6 @@ This segmentation enables:
 
 The project bridges advanced clustering techniques with actionable business insights.
 
----
 
 ##  Tech Stack
 
@@ -82,9 +77,7 @@ The project bridges advanced clustering techniques with actionable business insi
 - Scikit-learn
 - MiniSom
 - Seaborn / Matplotlib
-- UMAP
 
----
 
 ##  Project Structure
 
