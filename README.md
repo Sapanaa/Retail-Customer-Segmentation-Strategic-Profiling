@@ -32,13 +32,12 @@ The objective is to build robust, interpretable customer segments and align them
 ### 2 Clustering Approaches
 - K-Means (baseline segmentation)
 - Gaussian Mixture Models (confidence-based clustering)
-- DBSCAN (density-based noise detection)
-- SOM + K-Means (topology-preserving segmentation)
+- K-Means (topology-preserving segmentation)
 
 ### 3 Visual Validation
 - PCA (global structure)
 - t-SNE (local structure)
-- UMAP (balanced structure)
+
 
 ### 4 Business Profiling
 - Cluster interpretation using standardized feature means
@@ -118,4 +117,4 @@ Sapana Dhami
 
 ---
 
-⭐ If you found this project interesting, feel free to connect!
+ If you found this project interesting, feel free to connect!
